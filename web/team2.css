@@ -1,31 +1,6 @@
 body {
-	background-color: lightpurple;
-}
-div:hover {
-	font-weight: bold;
-}
-#div1 {
+	color: black;
 	font-family: Helvetica;
-	font-size: 6px;
-	text-align: left;
-	color: red;
-}
-#div2 {
-    font-family: Arial;
-	font-size: 8px;
+	font-size:50px;
 	text-align: center;
-	color: green;	
-}
-#div3 {
-	font-family: Verdana;
-	font-size: 10px;
-	text-align: right;
-	color: darkblue;
-}
-#clicker {
-	background-color: black;
-	color: white;
-	font-family: Helvetica;
-	font-size: 12px;
-	text-align: center;	
 }
